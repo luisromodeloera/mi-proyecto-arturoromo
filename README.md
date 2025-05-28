@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Análisis de anuncios de autos - Streamlit
 
 Este proyecto realiza un análisis exploratorio del conjunto de datos `vehicles_us.csv`, que contiene anuncios de autos usados en Estados Unidos.
@@ -15,3 +16,6 @@ La aplicación web fue desarrollada con [Streamlit](https://streamlit.io/) e inc
 
    ```bash
    .\vehicles_env\Scripts\activate
+=======
+# mi-proyecto-arturoromo
+>>>>>>> 3ca65f72a3204abe47927ca939102f48ea711b0b
